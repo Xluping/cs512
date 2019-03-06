@@ -15,11 +15,11 @@ The paper followed for this project deals with sonar based images and enhances t
 Dataset: https://www.eecs.yorku.ca/~kamel/sidd/dataset.php
 
 Technologies used:
-● Python 3.5
-● OpenCV
-● Keras
+1. Python 3.5
+2. OpenCV
+3. Keras
 
-For more details go to the (Project Report)[]
+For more details go to the [Project Report](project/doc/Project%20Report.pdf)
 
-Instructions to execute the code is available (here)[]
+Instructions to execute the code is available [here](project/doc/Instructions.pdf)
 
